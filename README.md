@@ -74,19 +74,28 @@ This model was created for educational and portfolio purposes only and should no
 
 This project is organized into four primary worksheets.
 
----
+## Comparable Company Analysis
+
+![Comparable Analysis](Images/Comparable_Analysis.png)
 
 ---
 
-# Model Preview
+## Peer Company Summary
 
-The completed comparable company valuation model is shown below.
+![Peer Summary](Images/Peer_Summary.png)
 
-## Comparable Company Valuation Model
+---
 
-The model compares Apple against a peer group of leading technology companies using valuation multiples to estimate implied enterprise value.
+## Valuation Summary
 
-![Comparable Company Valuation Model](Images/Comp.png)
+![Valuation Summary](Images/Valuation.png)
+Disclaimer
+↓
 
+Model Preview
+↓
 
+One sentence describing the model
+↓
 
+Large screenshot of the completed model
