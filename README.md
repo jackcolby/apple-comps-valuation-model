@@ -70,32 +70,8 @@ This model was created for educational and portfolio purposes only and should no
 
 ---
 
-# Model Preview
+## Model Preview
 
-This project is organized into four primary worksheets.
+Below is the completed Comparable Company Valuation model developed in Microsoft Excel. The model compares Apple against a peer group of leading technology companies using valuation multiples to estimate Apple's implied enterprise value.
 
-## Comparable Company Analysis
-
-![Comparable Analysis](Images/Comparable_Analysis.png)
-
----
-
-## Peer Company Summary
-
-![Peer Summary](Images/Peer_Summary.png)
-
----
-
-## Valuation Summary
-
-![Valuation Summary](Images/Valuation.png)
-Disclaimer
-↓
-
-Model Preview
-↓
-
-One sentence describing the model
-↓
-
-Large screenshot of the completed model
+![Comparable Company Valuation Model](Images/Comp.png)
