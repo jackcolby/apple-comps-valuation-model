@@ -89,3 +89,13 @@ This project is organized into four primary worksheets.
 ## Valuation Summary
 
 ![Valuation Summary](Images/Valuation.png)
+
+---
+
+# Model Preview
+
+The completed comparable company valuation model is shown below.
+
+## Comparable Company Valuation Model
+
+![Comparable Company Valuation Model](Images/comp.png)
